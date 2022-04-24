@@ -25,8 +25,12 @@ nav ul li a {
   float: left;
 }
 nav ul li a:hover {
+  cursor: pointer;
   text-decoration: underline;
   text-decoration-color: aqua;
   text-decoration-thickness: 2.5px;
   text-underline-offset: 5px;
+}
+nav input {
+  color: white;
 }
